@@ -161,7 +161,7 @@ I'm always interested in connecting with fellow **data professionals, recruiters
 
 If you found this project useful or have any feedback, feel free to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-poddar-51239596/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-kumar-poddar-51239596/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anuragkumarpoddar-ui)
 
