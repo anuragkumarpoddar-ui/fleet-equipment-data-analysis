@@ -1,4 +1,4 @@
-# 🚛 Fleet Equipment Data Analysis
+# Fleet Equipment Data Analysis
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-Data%20Analysis-1D6F42?style=for-the-badge)
